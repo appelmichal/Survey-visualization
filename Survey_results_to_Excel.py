@@ -1,5 +1,5 @@
 # Constants
-DIR_PATH = r'C:\Users\appelm3\OneDrive - Medtronic PLC\Survey_Temp'
+DIR_PATH = r'C:\Users\appelm3\Survey_Mails'
 OUTPUT_FILE = 'output.xlsx'
 
 # pip install pandas openpyxl matplotlib extract-msg
